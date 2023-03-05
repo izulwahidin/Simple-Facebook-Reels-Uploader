@@ -12,7 +12,7 @@ class Reels extends Main{
     }
 
     public function upload($video_file,$video_description){
-	       if(!is_file($this->video_file)) throw new \Exception("video file not found", 1);
+	if(!is_file($this->video_file)) throw new \Exception("video file not found", 1);
 	       
         $this->video_file = $video_file;
         $this->video_description = $video_description;
