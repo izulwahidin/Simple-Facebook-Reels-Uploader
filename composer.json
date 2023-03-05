@@ -1,6 +1,6 @@
 {
-    "name": "wahidin/fb/reels",
-    "description": "simple way to upload video reels to facebook or instagramm",
+    "name": "wahidin/facebook",
+    "description": "simple wrapper for facebook",
     "type": "library",
     "authors": [
         {

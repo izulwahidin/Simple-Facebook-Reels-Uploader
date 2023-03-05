@@ -1,4 +1,4 @@
-<?php namespace Wahidin\Fb;
+<?php namespace Wahidin\Facebook;
 use Wahidin\Main;
 
 class Reels extends Main{
