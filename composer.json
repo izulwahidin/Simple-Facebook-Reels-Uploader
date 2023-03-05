@@ -12,5 +12,8 @@
         "psr-4": {
             "Wahidin\\":"src"
         }
+    },
+    "require": {
+        "wahidin/main": "^0.1",
     }
 }
