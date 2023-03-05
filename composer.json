@@ -15,6 +15,6 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "wahidin/main": "^0.1"
+        "wahidin/main": "^0.3"
     }
 }
