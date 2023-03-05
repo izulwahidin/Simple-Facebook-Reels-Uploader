@@ -13,6 +13,7 @@
             "Wahidin\\":"src"
         }
     },
+    "minimum-stability": "stable",
     "require": {
         "wahidin/main": "^0.1"
     }
