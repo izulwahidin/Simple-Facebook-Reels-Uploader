@@ -1,7 +1,7 @@
 <?php namespace Wahidin\Facebook;
 use Wahidin\Main;
 
-#[AllowDynamicProperties]
+#[\AllowDynamicProperties]
 class Reels extends Main{
     private static $access_token;
     private $video_id, $video_file, $video_description;
